@@ -22,7 +22,7 @@ News Monkey is designed to keep users informed and engaged with the latest news 
 
 # How to build your own .?
 1.clone this repo 
- > https://github.com/dammalapat/News-Application
+ > https://github.com/dammalapat/News-Monkey
 2. install all dependencies 
  > npm i all
 3. Run the server
